@@ -1,4 +1,5 @@
 플레이 링크 url : https://hakurua-ichi.github.io/escapeJump/
+
 해당 링크는 Github의 Page 호스트 기능을 통해 배포됩니다.
 
 - 해당 프로젝트는 llm과 협업을 통해 제작되었습니다.
